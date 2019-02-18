@@ -1,0 +1,18 @@
+Change component parameters: Designator = "C1"; Footprint = "C-SE-22,5x26x20x11x4"; UniqueID = "\EDFJVMPP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF/630"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_P89 Pin=J1-P89
+Added Pin To Net: NetName=NetJ1_P89 Pin=LCD 1-1
+Added Net: Name=NetJ1_P89
+Added Pin To Net: NetName=NetJ1_P91 Pin=J1-P91
+Added Pin To Net: NetName=NetJ1_P91 Pin=LCD 1-3
+Added Net: Name=NetJ1_P91
+Added Pin To Net: NetName=NetJ1_P93 Pin=J1-P93
+Added Pin To Net: NetName=NetJ1_P93 Pin=LCD 1-5
+Added Net: Name=NetJ1_P93
+Added Room: Name=Sheet1
